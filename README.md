@@ -1,0 +1,2 @@
+# mcws
+A WebSocket frame.
