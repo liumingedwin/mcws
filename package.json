@@ -1,0 +1,28 @@
+{
+  "name": "mcws",
+  "version": "1.0.3",
+  "description": "Main For MCWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Edwinlau",
+  "license": "ISC",
+  "dependencies": {
+    "node-websocket": "^0.1.6",
+    "nodejs-websocket": "^1.7.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liumingedwin/mcws.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "WebSocket"
+  ],
+  "bugs": {
+    "url": "https://github.com/liumingedwin/mcws/issues"
+  },
+  "homepage": "https://github.com/liumingedwin/mcws#readme"
+}
