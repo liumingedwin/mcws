@@ -1,7 +1,7 @@
 # 欢迎来到`Minecraft-WebSocket`!
 `WebSocket` 是一个伟大的协议，它本质上是`http`，不同的是，它不是一问一答，而是可以长连接，服务端和客户端想发就发。
 
-本软件永久免费，使用`ISC lisence`！！！！！
+本软件永久免费，使用`Mozilla lisence`！！！！！
 
 本软件只适用于`Minecraft Bedrock Edition`
 
